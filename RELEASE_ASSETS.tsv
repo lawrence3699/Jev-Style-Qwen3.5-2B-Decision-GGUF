@@ -1,0 +1,5 @@
+asset_name	original_path	asset_bytes	asset_sha256	original_sha256	mode
+Jev-Style-Qwen3.5-2B-Decision-BF16.gguf.part-aa	Jev-Style-Qwen3.5-2B-Decision-BF16.gguf	1992294400	a0b4117c68c6a24f627a4123be0ac3d5bf616fa192ad64e5f035e85044f3fbee	ccc6f44df660114180bf12a38ecef09cec9afe138f7776f2fb047aea5c2ce470	split
+Jev-Style-Qwen3.5-2B-Decision-BF16.gguf.part-ab	Jev-Style-Qwen3.5-2B-Decision-BF16.gguf	1905085536	3b91cd3b72816c1f3926cf365baedd0c3d199302f654eee9433f3227f92b77bd	ccc6f44df660114180bf12a38ecef09cec9afe138f7776f2fb047aea5c2ce470	split
+Jev-Style-Qwen3.5-2B-Decision-Q4_K_M.gguf	Jev-Style-Qwen3.5-2B-Decision-Q4_K_M.gguf	1312156768	f3c14cd9d6d314d22f22ec527914e1cb7b5a9043823d4e815c0d232a9cd16cf6	f3c14cd9d6d314d22f22ec527914e1cb7b5a9043823d4e815c0d232a9cd16cf6	whole
+Jev-Style-Qwen3.5-2B-Decision-Q8_0.gguf	Jev-Style-Qwen3.5-2B-Decision-Q8_0.gguf	2076666976	470aa63b87fedf852e292580424fc4511778dffdbd459858f68abf4892dba040	470aa63b87fedf852e292580424fc4511778dffdbd459858f68abf4892dba040	whole
