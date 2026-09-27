@@ -17,7 +17,7 @@ datasets:
 - fancyzhx/ag_news
 - google/boolq
 - SetFit/sst5
-new_version: chaoliangUNSW/Jev-Style-0.8B-Decision-v3-GGUF
+new_version: chaoliangUNSW/Jev-Style-2B-Decision-v3-GGUF
 ---
 > **Jev-Style v3 is available — smaller and stronger:** [Jev-Style-0.8B-Decision-v3-GGUF](https://huggingface.co/chaoliangUNSW/Jev-Style-0.8B-Decision-v3-GGUF) scores **79.2%** on the 2,000 typed decisions (v1: 53.4%, v2: 73.5%, as reported on the v2 card), takes **25,600-token** inputs, works across **51 languages** and scores options without the 26-letter cap (tested with 77 options), all at **0.8B** parameters. This repository preserves v1; v2 is [here](https://huggingface.co/chaoliangUNSW/Jev-Style-Qwen3.5-2B-Decision-v2-GGUF).
 
